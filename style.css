@@ -1,0 +1,62 @@
+body
+{
+background-size: cover;
+width: 100%;
+
+}
+
+.heading
+{
+font-size: 20px;
+width: 100%;
+margin: 0px;
+}
+
+.note
+{
+font-size: 13px;
+color: black;
+}
+
+.div_volume
+{
+float: right;
+}
+
+.div_speed
+{
+float: left;
+}
+
+.disk_image
+{
+border-radius: 100px;
+width: 200px;
+}
+
+#volume_id
+{
+font-size: 22px;
+margin: 15px;
+
+}
+
+#speed_id
+{
+    font-size: 22px;
+    margin: 15px;
+    
+}
+
+#play
+{
+   font-size: 25px;
+   width: 200px;
+    
+}
+
+canvas
+{
+border:5px solid  green;
+border-radius: 15px;
+}
